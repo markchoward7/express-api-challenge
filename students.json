@@ -1,0 +1,12 @@
+[
+    {
+        "studentId": 1,
+        "firstName": "Light",
+        "lastName": "Yagami"
+    },
+    {
+        "studentId": 2,
+        "firstName": "Yusuke",
+        "lastName": "Urameshi"
+    }
+]
